@@ -1,0 +1,30 @@
+.RepoItem{
+    min-height: 21px;
+    border: 1px solid lightblue;
+    margin: 0 10px 10px 10px;
+}
+
+.RepoName{
+    float: left;
+    margin-right: 5px;
+    width: 30%;
+    overflow-wrap: break-word;
+}
+
+.RepoStars{
+    float: left;
+    margin-right: 5px;
+    width: 10%;
+}
+
+.RepoDate{
+    float: left;
+    margin-right: 5px;
+    width: 20%;
+}
+
+.RepoLink{
+    width: 40%;
+    overflow-wrap: break-word;
+    display: inline;
+}

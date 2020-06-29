@@ -1,0 +1,78 @@
+.backLink{
+    display: block;
+    margin: 10px 10px 10px 10px;
+}
+
+.mainInfo {
+    display: block;
+    width: 37%;
+    float: left;
+    margin: 10px 10px 10px 10px;
+}
+
+.mainInfo .infoName {
+    margin: 0 10px 0 0;
+}
+
+.mainInfo .infoStars {
+    margin-right: 10px;
+}
+
+.mainInfo .infoCommit {
+    margin-right: 10px;
+}
+
+.authorInfo{
+    float: right;
+    display: inline;
+    width: 57%;
+    margin: 10px 10px 10px 10px;
+}
+
+.shortInfo{
+    float: left;
+    margin: 10px 0 0 0;
+    width: 100%;
+}
+
+.langListDiv{
+    width: 57%;
+    float: right;
+    margin: 10px 10px 10px 10px;
+}
+
+.langList{
+    list-style: none;
+}
+
+.langItem{
+    margin-bottom: 10px;
+}
+
+.contrListDiv{
+    width: 37%;
+    float: left;
+    margin: 10px 10px 10px 10px;
+}
+
+.contrList{
+    list-style: none;
+}
+
+.contrItem{
+    margin-bottom: 15px;
+}
+
+.contrName{
+    float: left;
+    width: 50%;
+}
+
+.contrNumber{
+    float: left;
+    width: 20%;
+}
+
+.customHeader{
+    margin: 10px 10px 10px 3px;
+}
